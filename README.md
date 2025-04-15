@@ -1,2 +1,2 @@
 # Finance-Scraping
-Scraping de empresas de los sitios web Finviz y Wallmine
+Implemented code for web scraping of financial data
